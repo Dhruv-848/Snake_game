@@ -20,3 +20,12 @@ Compile the source code using your preferred compiler (e.g., g++ snake_game.cpp 
 Run the executable (e.g., ./snake_game).
 Gameplay
 Use the (WASD) to move the snake and collect food. Each piece of food increases your score. Avoid hitting the walls or the snake's body, as this will end the game.
+
+CODE
+![Screenshot (1)](https://github.com/Dhruv-848/Snake_game/assets/106670749/63f68161-99e8-469b-ad6b-4b8e0ffbb57a)
+
+SELECT OPTION
+![Screenshot (2)](https://github.com/Dhruv-848/Snake_game/assets/106670749/ad605299-777a-42d6-bff6-1973d781e902)
+
+GAME 
+![Screenshot (3)](https://github.com/Dhruv-848/Snake_game/assets/106670749/b31269b1-d3e1-4f96-96af-f6e33dea608b)
